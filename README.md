@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#cache:
+time complexity to search in array:0(n)
+
+#[ ]
+
+#{
+    #search in a object or map is 0(1)
+}
+new Map()--->even more optimised that searching isnide object
